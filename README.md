@@ -9,36 +9,22 @@ The dashboard will include essential metrics such as Year-to-Date (YTD) and Mont
 
 the dashboard include a line chart showcasing the weekly trend of YTD sales, a pie chart displaying the distribution of YTD total sales by body style and color, and a map chart illustrating YTD sales by dealer region. Furthermore, a tabular grid will present the sales trend for each company, and a detailed grid will provide comprehensive information about each car sale, including model, body style, color, sales amount, dealer region, and date.
 
-## Car_id:
-Unique identifier for each car in the dataset.
-## Date:
-Represents the date of the car sale transaction.
-## Customer Name:
-Contains the names of the customers involved in the transactions.
-## Gender:
-Specifies the gender of the customers (e.g., Male, Female).
-## Annual Income:
-Indicates the annual income of the customers, providing insights into their purchasing power.
-## Dealer_Name:
-Refers to the name of the dealer involved in the car sale.
-## Company:
-Represents the company associated with the car model or brand.
-## Model:
-Specifies the car model that was sold.
-## Engine:
-Contains information about the engine specifications of the sold cars.
-## Transmission:
-Describes the type of transmission in the sold cars (e.g., Automatic, Manual).
-## Color:
-Represents the color of the cars sold.
-## Price ($):
-Indicates the price of each car in dollars, providing insights into the financial aspects of the transactions.
-## Dealer_No:
-A unique identifier for each dealer.
-## Body Style:
-Describes the body style of the sold cars (e.g., Sedan, SUV, Coupe).
-## Phone:
-Contains the contact phone numbers associated with the dealers.
+The Dataset contain the following fields:
+* Car_id:
+* Date
+* Customer Name
+* Gender
+* Annual Income
+* Dealer_Name
+* Company
+* Model
+* Engine
+* Transmission
+* Color
+* Price ($)
+* Dealer_No
+* Body Style
+* Phone
 ## Dealer_Region:
 Specifies the region in the US where the dealer is located.
 
