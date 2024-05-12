@@ -33,3 +33,6 @@ Describes the body style of the sold cars (e.g., Sedan, SUV, Coupe).
 Contains the contact phone numbers associated with the dealers.
 ## Dealer_Region:
 Specifies the region in the US where the dealer is located.
+
+![image](https://github.com/fadwamousa/Cars-Sales-Dashboard/assets/41644585/0fe2ce36-9b64-4299-9cdb-42c682425b8e)
+
