@@ -25,8 +25,7 @@ The Dataset contain the following fields:
 * Dealer_No
 * Body Style
 * Phone
-## Dealer_Region:
-Specifies the region in the US where the dealer is located.
+* Dealer_Region:
 
 ![image](https://github.com/fadwamousa/Cars-Sales-Dashboard/assets/41644585/0fe2ce36-9b64-4299-9cdb-42c682425b8e)
 ![image](https://github.com/fadwamousa/Cars-Sales-Dashboard/assets/41644585/5a9249e5-546f-47fe-a341-d12e407b2a20)
