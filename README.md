@@ -1,5 +1,7 @@
 # Cars-Sales-Dashboard
-This dataset appears to be comprehensive, covering various aspects of car sales, including customer details, financial information, dealer information, and car specifications. When visualizing this data in Power BI, you can create dynamic dashboards and reports to gain valuable insights into sales trends, customer demographics, and dealership performance over the specified period.
+* Problem: The car dealership company lacks an efficient system to track and analyze its sales performance. Without a comprehensive Car Sales Dashboard, they are unable to visualize and understand critical Key Performance Indicators (KPIs) related to their car sales. This hinders their ability to make data-driven decisions and effectively monitor their sales performance over time.
+
+* Solution: The proposed solution is to design and develop a dynamic and interactive Car Sales Dashboard using Power BI. Power BI is a powerful business intelligence tool that allows for data visualization and analysis. The dashboard will provide a centralized platform to track and monitor key metrics such as total sales, revenue, average selling price, sales by car model, and sales by region.
 
 ## Car_id:
 Unique identifier for each car in the dataset.
